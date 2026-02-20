@@ -134,3 +134,21 @@ blockquote {
     }
   }
 }
+
+// Improve hierarchy readability for page/about headers with a more formal pair.
+.post {
+  .post-header {
+    .post-title {
+      font-family: "Merriweather", "Roboto Slab", Georgia, serif;
+      letter-spacing: 0.01em;
+    }
+
+    .desc,
+    .post-description {
+      font-family: "Source Sans 3", Roboto, "Helvetica Neue", Arial, sans-serif;
+      font-size: 1.05rem;
+      font-weight: 500;
+      letter-spacing: 0.01em;
+    }
+  }
+}

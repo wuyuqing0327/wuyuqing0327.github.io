@@ -9,7 +9,6 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>First-year PhD Student, Computer Science</p>
     <p>University of Illinois Chicago (UIC)</p>
     <p>Email: ywu260@uic.edu</p>
 
@@ -27,15 +26,15 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am Yuqing Wu (Chelsea), a first-semester PhD student in Computer Science at the University of Illinois Chicago (UIC), currently advised by Elena Zheleva.
+I am Yuqing Wu (Chelsea), a first-semester PhD student in Computer Science at the **University of Illinois Chicago (UIC)**, currently advised by Elena Zheleva.
 
-I graduated from the University of Chicago (UChicago) with an MS in Applied Data Science and a 4.0/4.0 GPA.
+I graduated from the **University of Chicago (UChicago)** with an MS in Applied Data Science and a 4.0/4.0 GPA.
 
-I have spent over two years in research on causal learning, network-driven behavior analysis, and LLM-based modeling.
+I have spent over two years in research on RL, LLM-based modeling, network-driven behavior analysis.
 
 I spent over five years in industry building NLP/LLM systems, optimization-driven recommendation models, and production AI-agent workflows.
 
-I am currently seeking more research opportunities (especially in summer) and collaborations aligned with my research interests.
+I am currently **seeking more research opportunities (especially in summer)** and collaborations aligned with my research interests.
 
 ## Research Interests
 
@@ -55,13 +54,14 @@ My current analysis uses time-aware causal comparisons with network-aware contro
 
 ## Past Experience
 
-### Research Experience
+#### Research
 
-- **University of Chicago, Biomedicine Department** (Jan 2024-Feb 2025): Analyzed links among air pollution exposure, microbiome patterns, and metabolic biomarkers with causal and statistical modeling.
-- **Greaten AI** (Oct 2024-May 2025): Studied dynamic communication topology for multi-agent LLM systems, including actor-critic style policy optimization (A2C-style) for adaptive coordination.
+- **University of Illinois Chicago** (Jan 2026-Present): Studying causal peer effects and stance dynamics in French election social-media data, with focus on peer exposure, reinforcement, and backfire patterns.
 - **Northwestern University** (May 2025-Dec 2025): Used network structure with LLM/NLP representations to quantify novelty and identify emerging research gaps.
+- **Greaten AI** (Dec 2024-May 2025): Studied dynamic communication topology for multi-agent LLM systems, including actor-critic style policy optimization (A2C-style) for adaptive coordination.
+- **University of Chicago, Biomedicine Department** (Jan 2024-Feb 2025): Analyzed links among air pollution exposure, microbiome patterns, and metabolic biomarkers with causal and statistical modeling.
 
-### Work Experience
+#### Work Experience
 
 - **ALLINMEDIA, AI Agent Engineer** (Aug 2025-Jan 2026): Built LLM-driven AI-agent workflows for business automation and creator collaboration pipelines.
 - **Hillhouse Capital, Senior Machine Learning Engineer** (May 2022-Jul 2023): Shipped recommendation and optimization systems that improved conversion in production.
