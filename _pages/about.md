@@ -9,11 +9,11 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Advisor: Elena Zheleva</p>
+    <p>First-year PhD Student, Computer Science</p>
     <p>University of Illinois Chicago (UIC)</p>
     <p>Email: ywu260@uic.edu</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -27,11 +27,15 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am **Yuqing Wu (Chelsea)**, a first-semester PhD student in Computer Science at the University of Illinois Chicago (UIC), advised by **Elena Zheleva**.
+I am Yuqing Wu (Chelsea), a first-semester PhD student in Computer Science at the University of Illinois Chicago (UIC), currently advised by Elena Zheleva.
 
-Before starting my PhD in January 2026, I spent over five years in industry building NLP/LLM systems, optimization-driven recommendation models, and production AI-agent workflows.
+I graduated from the University of Chicago (UChicago) with an MS in Applied Data Science and a 4.0/4.0 GPA.
 
-I am currently seeking first-year rotation opportunities and collaborations aligned with my research interests.
+I have spent over two years in research on causal learning, network-driven behavior analysis, and LLM-based modeling.
+
+I spent over five years in industry building NLP/LLM systems, optimization-driven recommendation models, and production AI-agent workflows.
+
+I am currently seeking more research opportunities (especially in summer) and collaborations aligned with my research interests.
 
 ## Research Interests
 
@@ -49,13 +53,20 @@ I am currently studying stance dynamics in French election social-media interact
 
 My current analysis uses time-aware causal comparisons with network-aware controls for latent homophily, combined with LLM-derived stance signals, to compare observed switching behavior against plausible counterfactual patterns.
 
-## Past Work Experience
+## Past Experience
 
-- **SDE-AI Agent Engineer**, OOIN Media (Aug 2025-Jan 2026): Built multi-agent automation pipelines for end-to-end merchant-creator collaboration workflows.
-- **Software Development Engineer**, Greaten AI (Dec 2024-May 2025): Built adaptive LLM multi-agent topology selection systems (AMAS) for complex task coordination.
-- **Senior Machine Learning Engineer**, Hillhouse Capital (May 2022-Jul 2023): Shipped recommendation modeling and optimization systems that improved conversion in production.
-- **Senior Machine Learning Engineer**, DiDi (Sep 2020-May 2022): Built uplift-modeling and constrained optimization pipelines for campaign allocation and user growth.
-- **Model Analyst**, FinUp (Jan 2018-Sep 2020): Developed credit risk and fraud modeling pipelines for loan decision support.
+### Research Experience
+
+- **University of Chicago, Biomedicine Department** (Jan 2024-Feb 2025): Analyzed links among air pollution exposure, microbiome patterns, and metabolic biomarkers with causal and statistical modeling.
+- **Greaten AI** (Oct 2024-May 2025): Studied dynamic communication topology for multi-agent LLM systems, including actor-critic style policy optimization (A2C-style) for adaptive coordination.
+- **Northwestern University** (May 2025-Dec 2025): Used network structure with LLM/NLP representations to quantify novelty and identify emerging research gaps.
+
+### Work Experience
+
+- **ALLINMEDIA, AI Agent Engineer** (Aug 2025-Jan 2026): Built LLM-driven AI-agent workflows for business automation and creator collaboration pipelines.
+- **Hillhouse Capital, Senior Machine Learning Engineer** (May 2022-Jul 2023): Shipped recommendation and optimization systems that improved conversion in production.
+- **DiDi, Senior Machine Learning Engineer** (Sep 2020-May 2022): Built uplift-modeling and constrained optimization pipelines for campaign allocation and user growth.
+- **FinUp, Model Analyst** (Jan 2018-Sep 2020): Developed credit risk and fraud modeling pipelines for lending decisions.
 
 ## Recent Publications
 
