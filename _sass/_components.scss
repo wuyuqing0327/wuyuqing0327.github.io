@@ -61,11 +61,15 @@ ul.task-list input[type="checkbox"] {
   .more-info {
     margin-bottom: 5px;
     margin-top: 5px;
-    font-family: monospace;
+    font-family: "Source Sans 3", Roboto, "Helvetica Neue", Arial, sans-serif;
 
     p {
       display: block;
       margin: 0;
+    }
+
+    .profile-school-line {
+      white-space: nowrap;
     }
   }
 }

@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>University of Illinois Chicago</p>
+    <p class="profile-school-line">University of Illinois Chicago</p>
     <p>Computer Science</p>
     <p>ywu260@uic.edu</p>
 
@@ -49,9 +49,9 @@ I am currently **seeking more research opportunities (especially in summer)** an
 
 ## Current Work
 
-I am currently studying stance dynamics in French election social-media interactions, focusing on whether repeated direct peer exposure reinforces prior positions or triggers backfire effects.
+I study stance dynamics in French election social-media conversations by constructing tweet-level temporal trajectories from reply/retweet parent-child links and encoding each tweet with pretrained language-model embeddings (e.g., CamemBERT/XLM-R). I then build a dynamic causal DAG over time to represent how historical context and exposure relate to subsequent stance signals, enabling counterfactual analysis and a causal-RL style sequential framing.
 
-My current analysis uses time-aware causal comparisons with network-aware controls for latent homophily, combined with LLM-derived stance signals, to compare observed switching behavior against plausible counterfactual patterns.
+My current analysis combines LLM-derived stance signals, time-aware causal RL modeling, and network-aware controls for latent homophily to evaluate how observed switching differs from what we would expect under counterfactual exposure histories.
 
 ## Past Experience
 
@@ -64,7 +64,7 @@ My current analysis uses time-aware causal comparisons with network-aware contro
 
 #### Work Experience
 
-- **ALLINMEDIA, AI Agent Engineer** (Aug 2025-Jan 2026): Built LLM-driven AI-agent workflows for business automation and creator collaboration pipelines.
+- **OOIN Media, AI Agent Engineer** (Aug 2025-Jan 2026): Built LLM-driven AI-agent workflows for business automation and creator collaboration pipelines.
 - **Hillhouse Capital, Senior Machine Learning Engineer** (May 2022-Jul 2023): Shipped recommendation and optimization systems that improved conversion in production.
 - **DiDi, Senior Machine Learning Engineer** (Sep 2020-May 2022): Built uplift-modeling and constrained optimization pipelines for campaign allocation and user growth.
 - **FinUp, Model Analyst** (Jan 2018-Sep 2020): Developed credit risk and fraud modeling pipelines for lending decisions.
