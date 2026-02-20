@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: First-semester PhD Student in Computer Science, University of Illinois Chicago
+subtitle: PhD Student in Computer Science, University of Illinois Chicago
 
 profile:
   align: right
@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am Yuqing Wu (Chelsea), a first-semester PhD student in Computer Science at the **University of Illinois Chicago**, currently advised by Elena Zheleva.
+I am Yuqing Wu (Chelsea), a first-year PhD student in Computer Science at the **University of Illinois Chicago**, currently advised by Elena Zheleva.
 
 I graduated from the **University of Chicago (UChicago)** with an MS in Applied Data Science and a 4.0/4.0 GPA.
 
