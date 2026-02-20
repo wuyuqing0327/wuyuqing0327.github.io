@@ -2,15 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: First-semester PhD Student in Computer Science, University of Illinois Chicago (UIC)
+subtitle: First-semester PhD Student in Computer Science, University of Illinois Chicago
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>University of Illinois Chicago (UIC)</p>
-    <p>Email: ywu260@uic.edu</p>
+    <p>University of Illinois Chicago</p>
+    <p>Computer Science</p>
+    <p>ywu260@uic.edu</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -26,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am Yuqing Wu (Chelsea), a first-semester PhD student in Computer Science at the **University of Illinois Chicago (UIC)**, currently advised by Elena Zheleva.
+I am Yuqing Wu (Chelsea), a first-semester PhD student in Computer Science at the **University of Illinois Chicago**, currently advised by Elena Zheleva.
 
 I graduated from the **University of Chicago (UChicago)** with an MS in Applied Data Science and a 4.0/4.0 GPA.
 
@@ -59,7 +60,7 @@ My current analysis uses time-aware causal comparisons with network-aware contro
 - **University of Illinois Chicago** (Jan 2026-Present): Studying causal peer effects and stance dynamics in French election social-media data, with focus on peer exposure, reinforcement, and backfire patterns.
 - **Northwestern University** (May 2025-Dec 2025): Used network structure with LLM/NLP representations to quantify novelty and identify emerging research gaps.
 - **Greaten AI** (Dec 2024-May 2025): Studied dynamic communication topology for multi-agent LLM systems, including actor-critic style policy optimization (A2C-style) for adaptive coordination.
-- **University of Chicago, Biomedicine Department** (Jan 2024-Feb 2025): Analyzed links among air pollution exposure, microbiome patterns, and metabolic biomarkers with causal and statistical modeling.
+- **University of Chicago, UChicago Medicine, Department of Surgery** (Jan 2024-Feb 2025): Analyzed links among air pollution exposure, microbiome patterns, and metabolic biomarkers with causal and statistical modeling.
 
 #### Work Experience
 
