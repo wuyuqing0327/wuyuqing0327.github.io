@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am Yuqing Wu (Chelsea), a first-year PhD student in Computer Science at the **University of Illinois Chicago**, currently advised by Elena Zheleva.
+I am Yuqing (Chelsea) Wu, a first-year CS PhD student at the **University of Illinois Chicago (UIC)**, currently advised by Professor Elena Zheleva. I am currently in my first-year rotation period.
 
 I graduated from the **University of Chicago (UChicago)** with an MS in Applied Data Science and a 4.0/4.0 GPA.
 
@@ -62,7 +62,7 @@ My current analysis combines LLM-derived stance signals, time-aware causal RL mo
 - **Greaten AI** (Dec 2024-May 2025): Studied dynamic communication topology for multi-agent LLM systems, including actor-critic style policy optimization (A2C-style) for adaptive coordination.
 - **University of Chicago, UChicago Medicine, Department of Surgery** (Jan 2024-Feb 2025): Analyzed links among air pollution exposure, microbiome patterns, and metabolic biomarkers with causal and statistical modeling.
 
-#### Work Experience
+#### Work
 
 - **OOIN Media, AI Agent Engineer** (Aug 2025-Jan 2026): Built LLM-driven AI-agent workflows for business automation and creator collaboration pipelines.
 - **Hillhouse Capital, Senior Machine Learning Engineer** (May 2022-Jul 2023): Shipped recommendation and optimization systems that improved conversion in production.
