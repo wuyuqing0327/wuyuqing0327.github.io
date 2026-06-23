@@ -7,7 +7,7 @@ nav_order: 3
 description: Curriculum vitae and concise experience summary.
 ---
 
-[Download full CV (PDF)](/assets/pdf/Yuqing_Wu_CV.pdf){:target="_blank"}
+[Download full CV (PDF)](/assets/pdf/Yuqing_Wu_CV.pdf?v={{ site.time | date: '%s' }}){:target="_blank"}
 
 ## Research Experience
 
