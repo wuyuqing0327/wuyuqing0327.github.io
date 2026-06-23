@@ -11,7 +11,7 @@ description: Curriculum vitae and concise experience summary.
 
 ## Research Experience
 
-- **PhD Researcher**, University of Illinois Chicago (Jan 2026-Present): Study causal peer effects and stance dynamics in social networks with LLM-derived signals and counterfactual analysis.
+- **PhD Researcher**, University of Illinois Chicago (Jan 2026-Present): Conduct research in reinforcement learning and causal reinforcement learning, focusing on diverse generation beyond i.i.d. sampling and causal decision-making.
 - **Researcher (Network Analysis, NLP, LLMs)**, Northwestern University (May 2025-Dec 2025): Combined NLP embeddings, network analysis, and causal discovery to identify research-gap dynamics.
 - **Research Assistant (Bioscience, Machine Learning)**, University of Chicago (Jan 2024-Feb 2025): Studied links among pollution exposure, microbiome pathways, and biomarker outcomes in observational data.
 
@@ -27,5 +27,3 @@ description: Curriculum vitae and concise experience summary.
 
 - **PhD in Computer Science**, University of Illinois Chicago (Jan 2026-Present)
 - **MS in Applied Data Science**, University of Chicago (Sep 2023-Dec 2024)
-- **Master in Engineering**, Yanshan University (Sep 2012-Jul 2015)
-- **Bachelor in Engineering**, Shenyang University of Chemical Technology (Sep 2007-Jul 2011)
